@@ -1,4 +1,4 @@
-const numbers = [15, 8, 42, 4, 32]
+const numbers = [15, 8, 42, 4, 32, 99, 66]
 function update() {
   const selection = d3
     .select('#chart')
